@@ -9,7 +9,7 @@ Banks need to identify customers who are likely to default, but financial datase
 ## Methodology
 - Data cleaning and preprocessing
 - Feature engineering
-- Handling class imbalance using SMOTE
+- Handling class imbalance using Resampling Method
 - Model training using:
   - Random Forest
 - Evaluation using ROC-AUC, Precision, Recall, and F1-score
